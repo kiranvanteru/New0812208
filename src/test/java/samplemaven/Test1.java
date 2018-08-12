@@ -7,5 +7,6 @@ public class Test1 {
   public void f() {
 	  System.out.println("success print");
 	  System.out.println("latest 2nd commit");
+	  System.out.println("3 rd commit  latest");
   }
 }
