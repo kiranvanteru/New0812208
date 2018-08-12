@@ -6,5 +6,6 @@ public class Test1 {
   @Test
   public void f() {
 	  System.out.println("success print");
+	  System.out.println("latest 2nd commit");
   }
 }
